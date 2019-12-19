@@ -24,6 +24,7 @@
     "core-js": "^2.5.4",
     "mixin-deep": "^2.0.1",
     "rxjs": "~6.2.0",
+    "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "zone.js": "~0.8.26"
   },
