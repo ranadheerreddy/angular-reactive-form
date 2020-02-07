@@ -3,14 +3,13 @@ import { NgModule } from '@angular/core';
 import {FormsModule, ReactiveFormsModule, FormGroup, FormControl} from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { HeroFormComponent } from './hero-form/hero-form.component';
+
 import { ReactiveFormsComponent } from './reactive-forms/reactive-forms.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeroFormComponent,
     ReactiveFormsComponent,
   ],
   imports: [
